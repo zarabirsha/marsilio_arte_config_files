@@ -6,14 +6,14 @@
     "endTime": "",
     "location": "Palazzo Reale, Sala Conferenze Assessorato",
     "title": {
-      "en": "Conference - Gabriella Belli talks about the exhibition",
+      "en": "Conference - Gabriella Belli presents the exhibition",
       "it": "Conferenza - Gabriella Belli racconta la mostra"
     },
     "description": {
-      "en": "Anselm Kiefer \"The Women Alchemists\"",
-      "it": "Anselm Kiefer \"Le Alchimiste\""
+      "en": "Kiefer. The Women Alchemist",
+      "it": "Kiefer. Le Alchimiste"
     },
-    "url": "https://www.eventbrite.com/"
+    "url": "https://www.marsilioarte.it"
   },
   {
     "id": "4",
@@ -22,14 +22,14 @@
     "endTime": "",
     "location": "Teatro Dal Verme",
     "title": {
-      "en": "Conference - Massimo Recalcati - The Holy Seed. The poetics of Anselm Kiefer",
-      "it": "Conferenza - Massimo Recalcati - Il seme Santo. La poetica di Anselm Kiefer"
+      "en": "Conference - Massimo Recalcati",
+      "it": "Conferenza - Massimo Recalcati"
     },
     "description": {
-      "en": "",
-      "it": ""
+      "en": "The sacred seed. The Poetics of Anselm Kiefer",
+      "it": "Il seme santo. La poetica di Anselm Kiefer"
     },
-    "url": "https://www.eventbrite.com/"
+    "url": "https://www.marsilioarte.it"
   },
   {
     "id": "5",
@@ -38,14 +38,14 @@
     "endTime": "",
     "location": "Teatro Dal Verme",
     "title": {
-      "en": "Dialogue - Anselm Kiefer in conversation with Natacha Fabbri - Alchemy between science and art",
-      "it": "Dialogo - Anselm Kiefer in conversazione con Natacha Fabbri - Alchimia tra scienza e arte"
+      "en": "Dialogue - Anselm Kiefer in conversation with Natacha Fabbri",
+      "it": "Dialogo - Anselm Kiefer in conversazione con Natacha Fabbri"
     },
     "description": {
-      "en": "Moderator Gabriella Belli",
-      "it": "Modera Gabriella Belli"
+      "en": "Alchemy between Science and Art. Moderated by Gabriella Belli",
+      "it": "Alchimia tra scienza e arte. Modera Gabriella Belli"
     },
-    "url": "https://www.eventbrite.com/"
+    "url": "https://www.marsilioarte.it"
   },
   {
     "id": "6",
@@ -54,29 +54,29 @@
     "endTime": "",
     "location": "Palazzo Reale, Sala Conferenze",
     "title": {
-      "en": "Conference - Gabriella Belli and Michela Pereira - Arcana Sapienza",
-      "it": "Conferenza - Gabriella Belli e Michela Pereira - Arcana Sapienza"
+      "en": "Conference - Gabriella Belli and Michela Pereira",
+      "it": "Conferenza - Gabriella Belli e Michela Pereira"
     },
     "description": {
-      "en": "",
-      "it": ""
+      "en": "Arcane Wisdom",
+      "it": "Arcana Sapienza"
     },
-    "url": "https://www.eventbrite.com/"
+    "url": "https://www.marsilioarte.it"
   },
   {
     "id": "7",
     "date": "2026-06-04",
     "startTime": "18:00",
     "endTime": "",
-    "location": "Planetario",
+    "location": "TBD",
     "title": {
-      "en": "Conference - Guido Tonelli - Creativity in art and science",
-      "it": "Conferenza - Guido Tonelli - Creatività nell'arte e nella scienza"
+      "en": "Conference - TBD",
+      "it": "Conferenza - TBD"
     },
     "description": {
-      "en": "",
-      "it": ""
+      "en": "Creativity in Art and Science",
+      "it": "Creatività  nell'arte e nella scienza"
     },
-    "url": "https://www.eventbrite.com/"
+    "url": "https://www.marsilioarte.it"
   }
 ]
