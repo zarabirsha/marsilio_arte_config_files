@@ -13,7 +13,7 @@
       "en": "Kiefer. The Women Alchemist",
       "it": "Kiefer. Le Alchimiste"
     },
-    "url": "https://www.marsilioarte.it"
+    "url": "https://www.eventbrite.it/e/public-program-kiefer-le-alchimiste-gabriella-belli-racconta-la-mostra-tickets-1981924758304?aff=odcleoeventsincollection"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
       "en": "The sacred seed. The Poetics of Anselm Kiefer",
       "it": "Il seme santo. La poetica di Anselm Kiefer"
     },
-    "url": "https://www.marsilioarte.it"
+    "url": "https://www.eventbrite.it/e/public-program-kiefer-le-alchimiste-massimo-recalcati-il-seme-santo-tickets-1981927856571?aff=odcleoeventsincollection"
   },
   {
     "id": "5",
@@ -45,7 +45,7 @@
       "en": "Alchemy between Science and Art. Moderated by Gabriella Belli",
       "it": "Alchimia tra scienza e arte. Modera Gabriella Belli"
     },
-    "url": "https://www.marsilioarte.it"
+    "url": "https://www.eventbrite.it/e/public-program-kiefer-le-alchimiste-anselm-kiefer-e-natacha-fabbri-tickets-1981930144414?aff=odcleoeventsincollection"
   },
   {
     "id": "6",
@@ -61,6 +61,22 @@
       "en": "Arcane Wisdom",
       "it": "Arcana Sapienza"
     },
-    "url": "https://www.marsilioarte.it"
+    "url": "https://www.eventbrite.it/e/public-program-kiefer-le-alchimiste-arcana-sapienza-tickets-1981930836484?aff=odcleoeventsincollection"
+  },
+  {
+    "id": "7",
+    "date": "2026-06-04",
+    "startTime": "18:00",
+    "endTime": "",
+    "location": "Palazzo Reale, Sala Conferenze",
+    "title": {
+      "en": "Conference - Luisa Torsi",
+      "it": "Conferenza - Luisa Torsi"
+    },
+    "description": {
+      "en": "Creativity in Art and Science",
+      "it": "Creatività nell'arte e nella scienza"
+    },
+    "url": "https://www.eventbrite.it/e/public-program-kiefer-le-alchimiste-creativita-nellarte-e-nella-scien-tickets-1981931150423?aff=odcleoeventsincollection"
   }
 ]
